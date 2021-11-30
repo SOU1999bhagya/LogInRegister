@@ -1,0 +1,30 @@
+#login {
+    border: 0px;
+    padding: 15%;
+}
+
+#login {
+    background-color: rgb(189, 230, 189);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    border: 1px;
+}
+
+label {
+    size: 100px;
+}
+
+button {
+    border: none;
+    color: white;
+    background-color: #4CAF50;
+    padding: 15px 32px;
+    font-size: 15px;
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+}
